@@ -3,7 +3,7 @@ import { set_sidebar } from "../utils/auto_sidebar.js";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/docs/",
+  // base: "/docs/",
   title: "九洲通达",
   description: "A VitePress Site",
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
